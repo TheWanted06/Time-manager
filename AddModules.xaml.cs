@@ -15,28 +15,20 @@ using System.Windows.Shapes;
 namespace Time_Manager
 {
     /// <summary>
-    /// Interaction logic for LoginSignUp.xaml
+    /// Interaction logic for AddModules.xaml
     /// </summary>
-    public partial class LoginSignUp : Window
+    public partial class AddModules : Window
     {
-        public LoginSignUp()
+        User SameUser;
+        public AddModules( User thisUser)
         {
             InitializeComponent();
+            SameUser = thisUser;
         }
 
-        private void BtLogin_Click(object sender, RoutedEventArgs e)
+        private void Button_Click(object sender, RoutedEventArgs e)
         {
-            //assign the inputs to variables
-
-            //then 
-            
-            User user1 = new User();
-            
-        }
-
-        private void BtCancel_Click(object sender, RoutedEventArgs e)
-        {
-
+            //SameUser.
         }
     }
 }

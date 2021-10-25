@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Time_Manager
 {
-    class User
+    public class User
     {
         public String name { get; set; }
         public String surname { get; set; }
@@ -18,7 +18,13 @@ namespace Time_Manager
         public int week { get; set; }
         public DateTime semesterDate { get; set; }
         //each user can have many modules 
-        List<Module> modules = new List<Module>(); 
+
+        private List<Module> modules = new List<Module>();
+        public List<Module> Module
+        {
+            get { return modules; }
+            set { modules = value; } 
+        }
         
     }
 }
