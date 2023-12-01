@@ -1,0 +1,20 @@
+﻿<Window x:Class="Time_Manager.Additional"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Time_Manager"
+        mc:Ignorable="d"
+        Title="Additional" Height="450" Width="800">
+    <Grid>
+        <StackPanel HorizontalAlignment="Center" VerticalAlignment="Center" >
+            <Label Content="Please fill in the following" FontSize="20" HorizontalAlignment="Center"/>
+            <Label Content="Please enter the start date of the semester"/>
+            <DatePicker Name="dpStartDate" Width="120"/>
+            <Label Content="how long does the semester last (weeks)"/>
+            <TextBox x:Name="tbNoOfSemester"  Height="23" TextWrapping="Wrap" Width="120"/>
+            
+            <Button x:Name="tbFinish" Content="Finish" Click="tbFinish_Click" Width="75"/>
+        </StackPanel>
+    </Grid>
+</Window>

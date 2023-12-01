@@ -1,0 +1,39 @@
+C:\Users\tship\Documents\Coding Project\School Projects\Time Manager\bin\Debug\Time Manager.exe.config
+C:\Users\tship\Documents\Coding Project\School Projects\Time Manager\bin\Debug\Time Manager.exe
+C:\Users\tship\Documents\Coding Project\School Projects\Time Manager\bin\Debug\Time Manager.pdb
+C:\Users\tship\Documents\Coding Project\School Projects\Time Manager\obj\Debug\Time Manager.csprojAssemblyReference.cache
+C:\Users\tship\Documents\Coding Project\School Projects\Time Manager\obj\Debug\Login.g.cs
+C:\Users\tship\Documents\Coding Project\School Projects\Time Manager\obj\Debug\LoginSignUp.g.cs
+C:\Users\tship\Documents\Coding Project\School Projects\Time Manager\obj\Debug\MainWindow.g.cs
+C:\Users\tship\Documents\Coding Project\School Projects\Time Manager\obj\Debug\SignUp.g.cs
+C:\Users\tship\Documents\Coding Project\School Projects\Time Manager\obj\Debug\App.g.cs
+C:\Users\tship\Documents\Coding Project\School Projects\Time Manager\obj\Debug\Time Manager_MarkupCompile.cache
+C:\Users\tship\Documents\Coding Project\School Projects\Time Manager\obj\Debug\Time Manager_MarkupCompile.lref
+C:\Users\tship\Documents\Coding Project\School Projects\Time Manager\obj\Debug\LoginSignUp.baml
+C:\Users\tship\Documents\Coding Project\School Projects\Time Manager\obj\Debug\MainWindow.baml
+C:\Users\tship\Documents\Coding Project\School Projects\Time Manager\obj\Debug\SignUp.baml
+C:\Users\tship\Documents\Coding Project\School Projects\Time Manager\obj\Debug\Login.baml
+C:\Users\tship\Documents\Coding Project\School Projects\Time Manager\obj\Debug\Time Manager.g.resources
+C:\Users\tship\Documents\Coding Project\School Projects\Time Manager\obj\Debug\Time_Manager.Properties.Resources.resources
+C:\Users\tship\Documents\Coding Project\School Projects\Time Manager\obj\Debug\Time Manager.csproj.GenerateResource.cache
+C:\Users\tship\Documents\Coding Project\School Projects\Time Manager\obj\Debug\Time Manager.csproj.CoreCompileInputs.cache
+C:\Users\tship\Documents\Coding Project\School Projects\Time Manager\obj\Debug\Time Manager.exe
+C:\Users\tship\Documents\Coding Project\School Projects\Time Manager\obj\Debug\Time Manager.pdb
+C:\Users\tship\Documents\Coding Project\School Projects\Time Manager\obj\Debug\Additional.g.cs
+C:\Users\tship\Documents\Coding Project\School Projects\Time Manager\obj\Debug\Dashboard.g.cs
+C:\Users\tship\Documents\Coding Project\School Projects\Time Manager\obj\Debug\UserLogin.g.cs
+C:\Users\tship\Documents\Coding Project\School Projects\Time Manager\obj\Debug\UserSignUp.g.cs
+C:\Users\tship\Documents\Coding Project\School Projects\Time Manager\obj\Debug\AddModules.g.cs
+C:\Users\Daniel Tshipuk\Documents\Code\School Projects\Prog\Time Manager\obj\Debug\Time Manager.csproj.AssemblyReference.cache
+C:\Users\Daniel Tshipuk\Documents\Code\School Projects\Prog\Time Manager\obj\Debug\Time Manager.csproj.SuggestedBindingRedirects.cache
+C:\Users\Daniel Tshipuk\Documents\Code\School Projects\Prog\Time Manager\obj\Debug\Additional.g.cs
+C:\Users\Daniel Tshipuk\Documents\Code\School Projects\Prog\Time Manager\obj\Debug\AddModules.g.cs
+C:\Users\Daniel Tshipuk\Documents\Code\School Projects\Prog\Time Manager\obj\Debug\Dashboard.g.cs
+C:\Users\Daniel Tshipuk\Documents\Code\School Projects\Prog\Time Manager\obj\Debug\MainWindow.g.cs
+C:\Users\Daniel Tshipuk\Documents\Code\School Projects\Prog\Time Manager\obj\Debug\UserLogin.g.cs
+C:\Users\Daniel Tshipuk\Documents\Code\School Projects\Prog\Time Manager\obj\Debug\UserSignUp.g.cs
+C:\Users\Daniel Tshipuk\Documents\Code\School Projects\Prog\Time Manager\obj\Debug\App.g.cs
+C:\Users\Daniel Tshipuk\Documents\Code\School Projects\Prog\Time Manager\obj\Debug\Time Manager_MarkupCompile.cache
+C:\Users\Daniel Tshipuk\Documents\Code\School Projects\Prog\Time Manager\obj\Debug\Time Manager_MarkupCompile.lref
+C:\Users\Daniel Tshipuk\Documents\Code\School Projects\Prog\Time Manager\obj\Debug\Time Manager.exe
+C:\Users\Daniel Tshipuk\Documents\Code\School Projects\Prog\Time Manager\obj\Debug\Time Manager.pdb

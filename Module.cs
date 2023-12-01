@@ -8,9 +8,10 @@ namespace Time_Manager
 {
     class Module
     {
-        public int code { get; set; }
-        public String name { get; set; }
-        public int credit { get; set; }
+        public string ModuleCode { get; set; }
+        public String ModuleName { get; set; }
+        public int ModuleCredit { get; set; }
+        public DateTime ModuleCreatedDate { get; set; }
 
     }
 }
